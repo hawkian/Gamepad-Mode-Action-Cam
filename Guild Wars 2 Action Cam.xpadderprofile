@@ -144,6 +144,7 @@ Set4Stick2LeftMouseSpeed=55
 Set4Stick2LeftMouseMode=Cursor
 Set4TriggerLeftSlots=U
 Set4TriggerRightSlots=Right Mouse Button (2)
+Set8Button6Slots=Left Mouse Button (1)
 Set8Button6SetSelect=2
 Set8Stick2UpSlots=Mouse Wheel Up
 Set8Stick2RightSlots=Page Down
