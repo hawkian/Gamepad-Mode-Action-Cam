@@ -84,6 +84,7 @@ Set3Button7Toggle=1
 Set3Button7SetSelect=0
 Set3Button8Slots=Escape
 Set3Button9Slots=B
+Set3Button10Slots=Alt,Left Mouse Button (1)
 Set3DPadUpSlots=F6
 Set3DPadRightSlots=F8
 Set3DPadDownSlots=F8,PAUSE 0.01s,F6,PAUSE 0.01s,F8
