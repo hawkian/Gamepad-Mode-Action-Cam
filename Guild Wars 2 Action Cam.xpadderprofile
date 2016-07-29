@@ -16,7 +16,7 @@ Set8StickDeadZones=64,128
 [Assignments]
 Set1Button1Slots=Space
 Set1Button2Slots=3
-Set1Button3Slots=Left Mouse Button (1)
+Set1Button3Slots=Left Mouse Button (1),1
 Set1Button4Slots=2
 Set1Button5Slots=4
 Set1Button6SetSelect=1
@@ -55,7 +55,7 @@ Set2Button8Slots=Escape
 Set2Button9Slots=T
 Set2Button10Slots=Left Control,T
 Set2DPadUpSlots=R
-Set2DPadRightSlots=Z
+Set2DPadRightSlots=Z,Minus
 Set2DPadDownSlots=X,F5
 Set2DPadLeftSlots=L
 Set2Stick1UpSlots=W
