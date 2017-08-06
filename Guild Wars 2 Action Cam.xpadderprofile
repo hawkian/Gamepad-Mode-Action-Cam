@@ -9,6 +9,7 @@ Version=5.7
 [Set Settings]
 Set1StickDeadZones=108,97
 Set1StickDiagonalSizes=45,47
+Set2StickDeadZones=64,140
 Set2StickDiagonalSizes=45,40
 Set2Stick2Mode=EightWay
 Set3StickDeadZones=134,64
